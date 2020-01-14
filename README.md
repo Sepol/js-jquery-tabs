@@ -1,3 +1,3 @@
 # Пример табов.
 
-![alt text](git_animation/buttons.gif)
+![alt text](git_animation/js-jquery-tabs.gif)
